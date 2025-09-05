@@ -6,8 +6,7 @@ order: 4
 
 <div class="specialCard" id="profile-card">
   <a href="/">
-    <!-- You can add a profile image here if you have one in your assets -->
-    <!-- <img src="/assets/img/your-photo.jpg" class="profile-img" alt="Saurabh Choudhary" /> -->
+    <img src="/assets/img/profile-pic.jpg" class="profile-img" alt="Saurabh Choudhary" />
   </a>
   <h1 class="profile-name">Saurabh Choudhary</h1>
   <p class="profile-bio"></p>
