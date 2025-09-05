@@ -63,6 +63,10 @@ order: 4
   <br />
    
   <div class="row aboutRow">
+    <div class="col-sm-2 d-flex align-items-center">
+      <img src="/assets/img/tikun-logo.png" class="company-logo"
+           style="object-fit: contain; max-width: 100%; height: auto;" alt="Tikun Technologies Logo" />
+    </div>
     <div class="col-sm-9">
       <h4 class="experience-title">Software Engineer</h4>
       <p><a href="#">Tikun Technologies</a></p>
@@ -79,6 +83,10 @@ order: 4
   <br />
    
   <div class="row aboutRow">
+    <div class="col-sm-2 d-flex align-items-center">
+      <img src="/assets/img/chandigarh-logo.png" class="company-logo"
+           style="object-fit: contain; max-width: 100%; height: auto;" alt="Chandigarh University Logo" />
+    </div>
     <div class="col-sm-9">
       <h4 class="experience-title">Software Engineering (BEng)</h4>
       <p><a href="#">Chandigarh University</a></p>
