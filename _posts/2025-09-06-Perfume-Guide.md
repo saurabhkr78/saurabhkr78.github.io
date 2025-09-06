@@ -6,6 +6,7 @@ categories:
 tags:
   - perfume
   - premium
+image: /assets/img/perfume-guide.jpg
 ---
 ![Perfume Guide](/assets/img/perfume-guide.jpg)
 

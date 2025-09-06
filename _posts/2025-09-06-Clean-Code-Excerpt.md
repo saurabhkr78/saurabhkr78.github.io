@@ -6,10 +6,11 @@ categories:
 tags:
   - cleancode
   - practice
+image: /assets/img/cleancode.jpg
 ---
 ![Clean Code](/assets/img/cleancode.jpg)
 
-# Excerpts from "Clean Code" | Chang Wan
+# Excerpts from "Clean Code"
   
 > You are reading this book for two reasons. First, you are a programmer. Second, you want to be a better programmer. Good. We need better programmers.
 

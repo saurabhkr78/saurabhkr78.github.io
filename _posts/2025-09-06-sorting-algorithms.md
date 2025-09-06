@@ -6,6 +6,7 @@ categories:
 tags:
   - algorithms
   - sorting
+image: /assets/img/sort.png
 ---
 
 # Sorting Algorithms | Saurabh Choudhary
