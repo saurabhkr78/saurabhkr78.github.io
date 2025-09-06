@@ -24,20 +24,20 @@ order: 4
 <div class="specialCard">
   <h1 class="specialCard-title">About Site</h1>
   <p>This site is a non-profit personal site, the main function is to record and share content related to me.</p>
-  <p>Through the blog module, I record and share my learning notes, personal essay, article excerpts, and other content. Blogs include the following categories:</p>
+  <p>Through the <a href="/">blog</a> module, I record and share my learning notes, personal essay, article excerpts, and other content. Blogs include the following categories:</p>
 
   <ul>
     <li>
-      <strong>Learning Note</strong> : Notes I took during my learning.</li>
+      <a href="/categories/learning-note/"><strong>Learning Note</strong></a> : Notes I took during my learning.</li>
     <li>
-      <strong>Personal Essay</strong> : My own content, including essays, articles, etc.
+      <a href="/categories/personal-essay/"><strong>Personal Essay</strong></a> : My own content, including essays, articles, etc.
     </li>
     <li>
-      <strong>Article Excerpt</strong> : Excerpts from various books or articles, may contain some of my personal comments.
+      <a href="/categories/article-excerpt/"><strong>Article Excerpt</strong></a> : Excerpts from various books or articles, may contain some of my personal comments.
     </li>
   </ul>
 
-  <p>Through the gallery module, I record and share photos related to my life and travel.</p>
+  <p>Through the <a href="/gallery/">gallery</a> module, I record and share photos related to my life and travel.</p>
   <p>Please feel free to contact me through the contact information provided on this site.</p>
 </div>
 
