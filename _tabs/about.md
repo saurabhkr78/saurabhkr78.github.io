@@ -5,20 +5,21 @@ order: 5
 ---
 
 <div class="specialCard text-center" id="profile-card">
-  <a href="/">
-    <img src="/assets/img/profile-pic.jpg" class="profile-img rounded-circle" alt="Saurabh Choudhary" style="width: 150px; height: 150px; object-fit: cover;" />
-  </a>
-  <h1 class="profile-name">Saurabh Choudhary</h1>
-  <p class="profile-bio"></p>
-  <hr class="divider" />
+  <div class="d-flex flex-column align-items-center">
+    <a href="/">
+      <img src="/assets/img/profile-pic.jpg" class="profile-img rounded-circle" alt="Saurabh Choudhary" style="width: 150px; height: 150px; object-fit: cover;" />
+    </a>
+    <h1 class="profile-name mt-3">Saurabh Choudhary</h1>
+    <p class="profile-bio"></p>
+    <hr class="divider w-100" />
 
-  <h6><a href="https://www.google.com/maps/search/?api=1&query=Bengaluru"
-         class="social-link"><i class="fas fa-map-marker-alt"></i> Bengaluru</a></h6>
-   
-  <h6><a href="mailto:meetsaurabh78@gmail.com"><i class="fas fa-envelope social-link"></i> meetsaurabh78@gmail.com</a></h6>
-   
-  <h6><a href="https://saurabhkr78.github.io"><i class="fas fa-link social-link" ></i> https://saurabhkr78.github.io</a></h6>
-  
+    <h6 class="mt-2"><a href="https://www.google.com/maps/search/?api=1&query=Bengaluru"
+           class="social-link"><i class="fas fa-map-marker-alt"></i> Bengaluru</a></h6>
+     
+    <h6><a href="mailto:meetsaurabh78@gmail.com"><i class="fas fa-envelope social-link"></i> meetsaurabh78@gmail.com</a></h6>
+     
+    <h6><a href="https://saurabhkr78.github.io"><i class="fas fa-link social-link" ></i> https://saurabhkr78.github.io</a></h6>
+  </div>
 </div>
 
 <div class="specialCard">
