@@ -7,7 +7,7 @@ tags:
   - cleancode
   - practice
 ---
-![[cleancode.jpg]]
+![Clean Code](/assets/img/cleancode.jpg)
 
 # Excerpts from "Clean Code" | Chang Wan
   
