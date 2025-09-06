@@ -23,4 +23,5 @@ Here are some photos related to my life or travels.
 
 ## My Pet
 
-![My Pet](/assets/img/placeholder.png)
+<!-- Add your image here later, like this: -->
+<!-- ![My Pet](/assets/img/your-pet-image.jpg) -->
