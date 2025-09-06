@@ -6,7 +6,7 @@ order: 4
 
 <div class="specialCard" id="profile-card">
   <a href="/">
-    <img src="/assets/img/profile-pic.jpg" class="profile-img" alt="Saurabh Choudhary" />
+    <img src="/assets/img/profile-pic.jpg" class="profile-img rounded-circle" alt="Saurabh Choudhary" style="width: 150px; height: 150px; object-fit: cover;" />
   </a>
   <h1 class="profile-name">Saurabh Choudhary</h1>
   <p class="profile-bio"></p>
