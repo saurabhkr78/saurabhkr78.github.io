@@ -14,17 +14,12 @@ timezone: Asia/Kolkata
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Saurabh Choudhary # the main title
+title: Saurabh Choudhary | Software Engineer & Engineering Leader
 
-tagline: First principle Enginner # it will display as the subtitle
+tagline: First Principle Engineer
 
-description: >- # used by seo meta and the atom feed
-  I’m a Software Engineer and Engineering Leader with a deep passion for:
-
-  🧠 System Architecture — designing scalable & reliable backend infrastructures
-  🗄️ Databases — building robust data layers and optimizing performance
-  📈 Scaling Systems — evolving platforms from 0 → 1 and beyond
-  🎯 Deep-dive debugging and engineering craftsmanship — details matter!
+description: >-
+  A personal blog and portfolio for Saurabh Choudhary, a Software Engineer and Engineering Leader passionate about system architecture, databases, and scaling systems.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -107,7 +102,7 @@ avatar: /assets/img/profile-pic.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: /assets/img/profile-pic.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
