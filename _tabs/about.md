@@ -11,8 +11,7 @@ order: 5
     </a>
     <h1 class="profile-name mt-3">Saurabh Choudhary</h1>
     <p class="profile-bio"></p>
-    <hr class="divider w-100" />
-
+    
     <h6 class="mt-2"><a href="https://www.google.com/maps/search/?api=1&query=Bengaluru"
            class="social-link"><i class="fas fa-map-marker-alt"></i> Bengaluru</a></h6>
      
@@ -22,7 +21,6 @@ order: 5
   </div>
 </div>
 
-<hr class="divider">
 
 <div class="specialCard">
   <h1 class="specialCard-title">About Site</h1>
@@ -44,7 +42,6 @@ order: 5
   <p>Please feel free to contact me through the contact information provided on this site.</p>
 </div>
 
-<hr class="divider">
 
 <div class="specialCard">
   <h1 class="specialCard-title">About Me</h1>
@@ -58,7 +55,6 @@ order: 5
   <p><strong>Interests:</strong> Riding, Trekking, Singing, Guitar</p>
 </div>
 
-<hr class="divider">
 
 <div class="specialCard">
   <h1 class="specialCard-title">Work Experience</h1>
@@ -75,11 +71,8 @@ order: 5
       <p class="experience-desc">Work period: Oct 2023 – Sep 2024</p>
     </div>
   </div>
-  <hr class="divider" />
-   
 </div>
 
-<hr class="divider">
  
 <div class="specialCard">
   <h1 class="specialCard-title">Education</h1>
@@ -96,11 +89,8 @@ order: 5
       <p class="experience-desc">Study period: Jul 2022 – Jun 2026</p>
     </div>
   </div>
-  <hr class="divider" />
-   
 </div>
 
-<hr class="divider">
 
 <div class="specialCard">
   <h1 class="specialCard-title">Disclaimer</h1>
