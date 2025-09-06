@@ -1,8 +1,11 @@
 ---
-title: "Sorting Algorithms"
+title: Sorting Algorithms
 date: 2025-09-06 00:00:00 +0000
-categories: [learning-note]
-tags: [algorithms, sorting]
+categories:
+  - learning-note
+tags:
+  - algorithms
+  - sorting
 ---
 
 # Sorting Algorithms | Saurabh Choudhary
