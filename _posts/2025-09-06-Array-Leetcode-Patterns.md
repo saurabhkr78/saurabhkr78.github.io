@@ -3,7 +3,6 @@ title: "Array Leetcode Patterns"
 date: 2025-09-06 00:00:00 +0000
 categories: [learning-note]
 tags: [leetcode, arrays]
-image: /assets/img/leetcode.png
 ---
 
 ## Array Leetcode Patterns
