@@ -11,7 +11,6 @@ order: 5
 Here are some photos related to my life or travels.
 
 - [My Pet](#my-pet)
-- [Travel in Norway](/travel-in-norway/)
 - [Travel in France](#)
 - [Travel in Thailand](#)
 - [Travel in Japan](#)
