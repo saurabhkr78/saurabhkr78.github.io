@@ -1,5 +1,5 @@
 ---
-title: Sorting Algorithms
+title: Searching Algorithms
 date: 2025-09-06 12:42:39 +05:30
 categories:
   - learning-note
