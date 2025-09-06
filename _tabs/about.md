@@ -1,10 +1,10 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 
-<div class="specialCard" id="profile-card">
+<div class="specialCard text-center" id="profile-card">
   <a href="/">
     <img src="/assets/img/profile-pic.jpg" class="profile-img rounded-circle" alt="Saurabh Choudhary" style="width: 150px; height: 150px; object-fit: cover;" />
   </a>
