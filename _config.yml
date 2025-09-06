@@ -220,6 +220,7 @@ exclude:
   - purgecss.js
   - "*.config.js"
   - "package*.json"
+  - "_posts/.obsidian"
 
 jekyll-archives:
   enabled: [categories, tags]
