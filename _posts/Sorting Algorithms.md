@@ -410,8 +410,7 @@ void heapSort(int arr[], int n) {
     }
 }
 ```
-Linear Sort
------------
+## Linear Sort
 
 Linear Sort refers to a **sorting algorithm that has a linear time complexity (`O(n)`, `O(n + k)`, `O(nk)`)**.
 ### Bucket Sort[](#bucket-sort)
