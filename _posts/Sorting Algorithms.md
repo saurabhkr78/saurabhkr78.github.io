@@ -1,3 +1,10 @@
+---
+title: "Sorting Algorithms"
+date: 2025-09-06 00:00:00 +0000
+categories: [learning-note]
+tags: [algorithms, sorting]
+---
+
 # Sorting Algorithms | Saurabh Choudhary
 
 
@@ -24,19 +31,20 @@ Contents
 
 * * *
 
-*   [Bubble Sort](#bubble-sort)
-*   [Insertion Sort](#insertion-sort)
-    *   [Direct Insertion Sort](#direct-insertion-sort)
-    *   [Binary Insertion Sort](#binary-insertion-sort)
-    *   [Shell Sort (Hill Sort)](#shell-sort-hill-sort)
-*   [Selection Sort](#selection-sort)
-*   [Merge Sort](#merge-sort)
-*   [Quick Sort](#quick-sort)
-*   [Heap Sort](#heap-sort)
-*   [Linear Sort](#linear-sort)
-    *   [Bucket Sort](#bucket-sort)
-    *   [Counting Sort](#counting-sort)
-    *   [Radix Sort](#radix-sort)
+- [Sorting Algorithms | Saurabh Choudhary](#sorting-algorithms--saurabh-choudhary)
+  - [Bubble Sort](#bubble-sort)
+  - [Insertion Sort](#insertion-sort)
+    - [Direct Insertion Sort](#direct-insertion-sort)
+    - [Binary Insertion Sort](#binary-insertion-sort)
+    - [Shell Sort (Hill Sort)](#shell-sort-hill-sort)
+  - [Selection Sort](#selection-sort)
+  - [Merge Sort](#merge-sort)
+  - [Quick Sort](#quick-sort)
+  - [Heap Sort](#heap-sort)
+  - [Linear Sort](#linear-sort)
+    - [Bucket Sort](#bucket-sort)
+    - [Counting Sort](#counting-sort)
+    - [Radix Sort](#radix-sort)
 
 * * *
 
@@ -560,4 +568,3 @@ void radixSort(int arr[], int n) {
 ``
 
 * * *
-
