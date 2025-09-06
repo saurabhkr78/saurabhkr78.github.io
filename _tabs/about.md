@@ -9,8 +9,8 @@ order: 5
     <a href="/">
       <img src="/assets/img/profile-pic.jpg" class="profile-img rounded-circle" alt="Saurabh Choudhary" style="width: 150px; height: 150px; object-fit: cover;" />
     </a>
-    <h1 class="profile-name mt-3">Saurabh Choudhary</h1>
-    <p class="profile-bio"></p>
+  <h1 class="profile-name mt-3">Saurabh Choudhary - Top Backend Developer in India</h1>
+  <p class="profile-bio">Expert Backend Developer Specializing in Scalable Systems</p>
     
     <h6 class="mt-2"><a href="https://www.google.com/maps/search/?api=1&query=Bengaluru"
            class="social-link"><i class="fas fa-map-marker-alt"></i> Bengaluru</a></h6>
@@ -44,15 +44,15 @@ order: 5
 
 
 <div class="specialCard">
-  <h1 class="specialCard-title">About Me</h1>
-  <p>I’m a <strong>Software Engineer and Engineering Leader</strong> with a deep passion for:</p>
+  <h1 class="specialCard-title">Top Backend Developer in India</h1>
+  <p>I’m a <strong>top backend developer in India</strong> with a deep passion for designing and building scalable and reliable backend systems. My expertise includes:</p>
   <ul>
-    <li>🧠 <strong>System Architecture</strong> — designing scalable & reliable backend infrastructures</li>
-    <li>🗄️ <strong>Databases</strong> — building robust data layers and optimizing performance</li>
-    <li>📈 <strong>Scaling Systems</strong> — evolving platforms from 0 → 1 and beyond</li>
-    <li>🎯 <strong>Deep-dive debugging and engineering craftsmanship</strong> — details matter!</li>
+    <li>🧠 <strong>System Architecture:</strong> Designing robust and scalable backend infrastructures.</li>
+    <li>🗄️ <strong>Databases:</strong> Building and optimizing high-performance data layers.</li>
+    <li>📈 <strong>Scaling Systems:</strong> Proven experience in scaling platforms to handle high traffic.</li>
+    <li>🎯 <strong>Expert Backend Developer:</strong> A commitment to quality and craftsmanship in all my work.</li>
   </ul>
-  <p><strong>Interests:</strong> Riding, Trekking, Singing, Guitar</p>
+  <p>If you're looking to <strong>hire a leading backend developer in India</strong>, please feel free to get in touch.</p>
 </div>
 
 
