@@ -8,7 +8,7 @@ tags:
   - practice
 image: /assets/img/cleancode.jpg
 ---
-![Clean Code](/assets/img/cleancode.jpg)
+
 
 # Excerpts from "Clean Code"
   
