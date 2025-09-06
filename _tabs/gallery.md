@@ -8,19 +8,15 @@ order: 4
 >
 > ———*About Time*
 
-Here are some photos related to my life or travels.
+Here are some photos related to my life or travels.(yet to update)
 
 - [My Pet](#my-pet)
-- [Travel in France](#)
-- [Travel in Thailand](#)
-- [Travel in Japan](#)
-- [Travel in Finland](#)
-- [Life in U.K.](#)
-- [Life in China](#)
-
+- [Travel in India](#)
+- [My Gaming Setup](#)
+- [My Maths Book Collection](#)
+- [My Perfume Collection](#)
+- [](#)
 ---
 
 ## My Pet
 
-<!-- Add your image here later, like this: -->
-<!-- ![My Pet](/assets/img/your-pet-image.jpg) -->
