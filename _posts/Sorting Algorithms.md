@@ -53,7 +53,6 @@ Bubble Sort[](#bubble-sort)
 
 **Mechanism:** Bubble Sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The process is repeated until the list is sorted.
 
-[![](https://www.cwblogs.com/assets/img/note/algorithm/sort1.jpg)](/assets/img/note/algorithm/sort1.jpg)
 
 **Advantages:**
 
@@ -90,7 +89,6 @@ Insertion Sort[](#insertion-sort)
 
 **Mechanism:** This algorithm iteratively takes one element from the unsorted portion and finds its appropriate place in the sorted portion of the array.
 
-[![](https://www.cwblogs.com/assets/img/note/algorithm/sort2.jpg)](/assets/img/note/algorithm/sort2.jpg)
 
 **Advantages:**
 
@@ -125,7 +123,7 @@ void insertionSort(int arr[], int n) {
 
 **Mechanism:** Similar to direct insertion but uses binary search to find the proper location for insertion, reducing comparisons.
 
-[![](https://www.cwblogs.com/assets/img/note/algorithm/sort2.jpg)](/assets/img/note/algorithm/sort2.jpg) _same as the direct insertion sort (except that it’s faster to find the insertion position)_
+_same as the direct insertion sort (except that it’s faster to find the insertion position)_
 
 **Advantages:**
 
@@ -147,7 +145,7 @@ void insertionSort(int arr[], int n) {
 
 **Mechanism:** An extension of insertion sort that allows the exchange of far apart elements to improve speed. Shell sort improves the efficiency of insertion sort by moving larger elements in advance to reduce the number of reverse order pairs.
 
-[![](https://www.cwblogs.com/assets/img/note/algorithm/sort7.jpg)](/assets/img/note/algorithm/sort7.jpg) _from: http://stoimen.com/2012/02/27/computer-algorithms-shell-sort/_
+_from: http://stoimen.com/2012/02/27/computer-algorithms-shell-sort/_
 
 **Advantages:**
 
@@ -186,7 +184,6 @@ Selection Sort[](#selection-sort)
 
 **Mechanism:** Repeatedly finding the minimum element (considering ascending order) from the unsorted part and putting it at the beginning.
 
-[![](https://www.cwblogs.com/assets/img/note/algorithm/sort3.jpg)](/assets/img/note/algorithm/sort3.jpg)
 
 **Advantages:**
 
@@ -229,7 +226,6 @@ Merge Sort[](#merge-sort)
 
 **Mechanism:** Merge Sort is a **divide-and-conquer** algorithm that divides the input array into two halves, calls itself for the two halves, and then merges the two sorted halves.
 
-[![](https://www.cwblogs.com/assets/img/note/algorithm/sort4.jpg)](/assets/img/note/algorithm/sort4.jpg)
 
 **Advantages:**
 
@@ -302,7 +298,6 @@ Quick Sort[](#quick-sort)
 
 **Mechanism:** Quick Sort is a **divide-and-conquer** algorithm. It picks an element as a pivot and partitions the given array around the picked pivot. There are different versions of quickSort that pick pivot in different ways.
 
-[![](https://www.cwblogs.com/assets/img/note/algorithm/sort5.jpg)](/assets/img/note/algorithm/sort5.jpg)
 
 **Advantages:**
 
@@ -316,7 +311,7 @@ Quick Sort[](#quick-sort)
 
 ``
 
-[![](https://www.cwblogs.com/assets/img/note/algorithm/sort6.jpg)](/assets/img/note/algorithm/sort6.jpg) _partition(int arr\[\], int low, int high)_
+_partition(int arr\[\], int low, int high)_
 
 * * *
 
@@ -357,7 +352,6 @@ Heap Sort[](#heap-sort)
 
 **Mechanism:** Builds a max heap from the data, then repeatedly extracts the maximum element from the heap and rebuilds the heap until all elements are sorted.
 
-[![](https://www.cwblogs.com/assets/img/note/algorithm/sort8.jpg)](/assets/img/note/algorithm/sort8.jpg)
 
 **Advantages:**
 
@@ -416,15 +410,14 @@ void heapSort(int arr[], int n) {
     }
 }
 ```
-Linear Sort[](#linear-sort)
----------------------------
+Linear Sort
+-----------
 
 Linear Sort refers to a **sorting algorithm that has a linear time complexity (`O(n)`, `O(n + k)`, `O(nk)`)**.
 ### Bucket Sort[](#bucket-sort)
 
 **Mechanism:** Distributes elements into several “buckets” and sorts these individually.
 
-[![](https://www.cwblogs.com/assets/img/note/algorithm/sort9.png)](/assets/img/note/algorithm/sort9.png)
 
 **Advantages:**
 
@@ -468,7 +461,6 @@ void bucketSort(float arr[], int n) {
 
 **Mechanism:** Counts the occurrences of each value to sort. Counting sort is actually a special case of bucket sorting (Assign a bucket to each possible value so that the data values in each bucket are the same, eliminating the need to sort the buckets).
 
-[![](https://www.cwblogs.com/assets/img/note/algorithm/sort10.jpg)](/assets/img/note/algorithm/sort10.jpg)
 
 **Advantages:**
 
@@ -520,7 +512,6 @@ void countingSort(int arr[], int n) {
 
 **Mechanism:** Sorts numbers digit by digit, starting from the least significant digit to the most significant.
 
-[![](https://www.cwblogs.com/assets/img/note/algorithm/sort11.jpg)](/assets/img/note/algorithm/sort11.jpg)
 
 **Advantages:**
 
