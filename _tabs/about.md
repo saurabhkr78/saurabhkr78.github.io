@@ -22,6 +22,8 @@ order: 5
   </div>
 </div>
 
+<hr class="divider">
+
 <div class="specialCard">
   <h1 class="specialCard-title">About Site</h1>
   <p>This site is a non-profit personal site, the main function is to record and share content related to me.</p>
@@ -42,6 +44,7 @@ order: 5
   <p>Please feel free to contact me through the contact information provided on this site.</p>
 </div>
 
+<hr class="divider">
 
 <div class="specialCard">
   <h1 class="specialCard-title">About Me</h1>
@@ -55,8 +58,7 @@ order: 5
   <p><strong>Interests:</strong> Riding, Trekking, Singing, Guitar</p>
 </div>
 
-
-
+<hr class="divider">
 
 <div class="specialCard">
   <h1 class="specialCard-title">Work Experience</h1>
@@ -77,6 +79,7 @@ order: 5
    
 </div>
 
+<hr class="divider">
  
 <div class="specialCard">
   <h1 class="specialCard-title">Education</h1>
@@ -97,6 +100,7 @@ order: 5
    
 </div>
 
+<hr class="divider">
 
 <div class="specialCard">
   <h1 class="specialCard-title">Disclaimer</h1>
