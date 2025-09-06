@@ -29,12 +29,12 @@ order: 5
 
   <ul>
     <li>
-      <a href="/categories/learning-note/"><strong>Learning Note</strong></a> : Notes I took during my learning.</li>
+      <a href="/categories/#learning-note"><strong>Learning Note</strong></a> : Notes I took during my learning.</li>
     <li>
-      <a href="/categories/personal-essay/"><strong>Personal Essay</strong></a> : My own content, including essays, articles, etc.
+      <a href="/categories/#personal-essay"><strong>Personal Essay</strong></a> : My own content, including essays, articles, etc.
     </li>
     <li>
-      <a href="/categories/article-excerpt/"><strong>Article Excerpt</strong></a> : Excerpts from various books or articles, may contain some of my personal comments.
+      <a href="/categories/#article-excerpt"><strong>Article Excerpt</strong></a> : Excerpts from various books or articles, may contain some of my personal comments.
     </li>
   </ul>
 
