@@ -60,7 +60,7 @@ order: 5
            style="object-fit: contain; max-width: 100%; height: auto;" alt="Tikun Technologies Logo" />
     </div>
     <div class="col-sm-9">
-      <h4 class="experience-title">Software Engineer</h4>
+      <h4 class="experience-title">Python Intern</h4>
       <p><a href="#">Tikun Technologies</a></p>
       <p class="experience-desc">Work period: Oct 2023 – Sep 2024</p>
     </div>
